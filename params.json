@@ -1,6 +1,6 @@
 {
   "name": "Sbs20.GitHub.io",
-  "tagline": "User pages",
-  "body": "# sbs20.github.io\r\n\r\nPersonal projects\r\n",
+  "tagline": "Homepages for Filenotes, Actiontext, Syncotron and more",
+  "body": "# sbs20.github.io\r\n\r\n * [Syncotron](https://sbs20.github.io/syncotron/)\r\n * [Actiontext](https://sbs20.github.io/actiontext-win10)\r\n * [Filenotes-win10](https://sbs20.github.io/filenotes-win10)\r\n * [Filenotes-android](https://sbs20.github.io/filenotes-android)\r\n\r\nFor all other repositories and code see [here](https://github.com/sbs20/)\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
